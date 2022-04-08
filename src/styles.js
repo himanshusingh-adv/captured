@@ -41,7 +41,7 @@ export const Image = styled.div`
     width: 100%;
     height: 80vh;
     object-fit: cover;
-    padding-right: 5rem;
+    /* padding-right: 1rem; */
   }
 `;
 export const Hide = styled.div`

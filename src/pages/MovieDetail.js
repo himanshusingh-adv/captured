@@ -66,6 +66,10 @@ const Headline = styled.div`
     height: 100vh;
     object-fit: cover;
   }
+  @media (max-width: 1500px) {
+    object-fit: cover;
+    height: 50vh;
+  }
 `;
 const Awards = styled.div`
   min-height: 80vh;
